@@ -2,62 +2,70 @@
 
 > AI Governance & Reporting Suite
 
-[![License](https://img.shields.io/badge/license-Proprietary-blue.svg)](LICENSE)
-[![Documentation](https://img.shields.io/badge/docs-complete-brightgreen.svg)](product-specification.md)
+## What This Is
 
-## 🎯 Overview
+ComplianceIQ is an open-source platform that helps organizations document and report on their AI governance. It generates compliance reports, maintains audit trails, and creates board-ready documentation - basically, it helps you prove to regulators and executives that your AI systems are well-governed.
 
-ComplianceIQ is part of the **Agentic AI Security Suite for Financial Institutions** - a comprehensive platform designed to prevent agentic AI financial disruption in 2026.
+## The Current Landscape
 
-## 📚 Documentation
+Regulatory bodies are starting to ask questions about AI governance. They want to know: How many AI models do you have? How are they validated? How do you monitor them? What happens when they fail?
 
-- **[Product Specification](product-specification.md)** - Complete product documentation
-- **[Suite Overview](../README_FINANCIAL_INSTITUTIONS.md)** - Full suite documentation for G-SIBs
-- **[Quick Reference](../QUICK_REFERENCE_G-SIBs.md)** - Executive summary
+The problem is, most organizations don't have good answers. They're deploying AI systems, but they don't have:
+- Complete inventories of their AI models
+- Documentation of how models are validated
+- Audit trails of model decisions
+- Board-ready reports on AI governance
 
-## 🏦 Target Institutions
+Regulatory examinations are coming, and organizations need to be ready. But building compliance documentation manually takes hundreds of hours, and it's easy to miss things. ComplianceIQ is our attempt to automate that process.
 
-This product is designed for **Global Systemically Important Banks (G-SIBs)**:
+## Why We Built This
 
-- JPMorgan Chase & Co.
-- Morgan Stanley
-- Bank of America
-- Citigroup Inc.
-- Goldman Sachs
-- Wells Fargo
-- U.S. Bancorp
-- Other G-SIBs globally
+We built ComplianceIQ because we saw organizations struggling with AI governance documentation. They know they need to document their AI systems, but it's time-consuming and error-prone.
 
-## 🚀 Quick Start
+By open-sourcing this:
+- **Organizations can document their AI systems** - Without expensive proprietary tools
+- **The community can improve templates** - More regulatory frameworks means better reports
+- **Knowledge gets shared** - We can all learn from compliance challenges
+- **Transparency builds trust** - Compliance should be open and auditable
 
-1. **Review** the [Product Specification](product-specification.md)
-2. **Schedule** an executive briefing
-3. **Request** a technical assessment
-4. **Begin** proof-of-concept discussion
+This is about making AI governance documentation accessible, not keeping it proprietary.
 
-## 💰 Pricing
+## What ComplianceIQ Does
 
-### Starter Edition
-Starting at $75K-200K/year depending on product
+ComplianceIQ automates the documentation and reporting process:
+- **Model inventory** - Automatically discovers and catalogs AI models
+- **Model cards** - Generates documentation for each model
+- **Compliance reports** - Creates reports for different regulatory frameworks (OCC, FCA, ECB, etc.)
+- **Audit trails** - Maintains complete audit logs
+- **Board reports** - Generates executive summaries
+- **Examination packages** - Prepares documentation for regulatory examinations
 
-### Professional Edition
-Starting at $250K-600K/year
+It integrates with your AI monitoring tools and can pull data automatically, so you're not manually compiling reports every time there's an examination.
 
-### Enterprise Edition
-$750K-3M/year (custom pricing for G-SIBs)
+## Who This Is For
 
-### PE Portfolio License
-Custom pricing for portfolio-wide deployment
+This is for:
+- **Compliance teams** preparing for regulatory examinations
+- **Risk managers** documenting AI governance
+- **Data scientists** who need to document their models
+- **Organizations** deploying AI systems that need to prove governance
 
-## 📋 Features
+## Current Status
 
-See [Product Specification](product-specification.md) for complete feature list.
+This is an open-source project in active development. We're building this in public because we believe AI governance documentation should be accessible to everyone.
 
-## 🔗 Related Products
+## Getting Started
 
-This product is part of a 10-product suite:
+1. Check out the [product specification](product-specification.md) for detailed technical information
+2. Review the [Cursor AI prompts](CURSOR_AI_PROMPTS_COMPLETE.md) if you want to build your own version
+3. Read the [executive brief](EXECUTIVE_BRIEF.md) for a high-level overview
+4. Contribute, fork, or use this however it helps you
 
-1. [AgentGuard](../agentguard) - Unified AI Agent Security
+## Related Projects
+
+This is part of a suite of 10 open-source tools for AI agent security in finance:
+
+1. [AgentGuard](../agentguard) - Unified AI Agent Security & Governance
 2. [CodeShield AI](../codeshield-ai) - Secure Development Gateway
 3. [PaymentSentinel](../paymentsentinel) - Real-Time Transaction Defense
 4. [LegacyBridge](../legacybridge-ai-gateway) - Legacy Core Protection
@@ -68,16 +76,25 @@ This product is part of a 10-product suite:
 9. [SupplyChainGuard](../supplychainguard) - Development Tool Security
 10. [ComplianceIQ](../complianceiq) - Regulatory Reporting
 
-## 📞 Contact
+## Contributing
 
-- **Enterprise Sales**: [Contact Information]
-- **Technical Assessment**: [Contact Information]
-- **Regulatory Advisory**: [Contact Information]
+We welcome contributions! Whether it's:
+- Bug reports
+- Feature suggestions
+- Code improvements
+- Documentation fixes
+- New regulatory framework templates
 
-## 📄 License
+Everything helps make these tools better for everyone.
 
-Proprietary - Enterprise License Required
+## License
+
+MIT License - Use it however you want.
+
+## Disclaimer
+
+This is open-source software provided as-is. Use at your own risk. We're not responsible for any losses or damages. This is a community project, not a commercial product.
 
 ---
 
-**Part of the Agentic AI Security Suite - Purpose-Built for G-SIBs**
+**Built with the hope that open collaboration can make AI governance documentation easier for everyone.**
