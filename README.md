@@ -99,6 +99,32 @@ This is for:
 - **Data scientists** who need to document their models
 - **Organizations** deploying AI systems that need to prove governance
 - **Mid-market banks** who can't afford $500K+ consulting engagements
+- **Mid-market banks** overwhelmed by regulatory changes
+
+## Target Segments
+
+### Mid-Market Banks Overwhelmed by Regulatory Changes
+**Why We Fit**: Can't afford $500K+ consulting, but need to prove AI governance.
+
+**Positioning**: "ServiceNow is great for IT tickets. ComplianceIQ is purpose-built for financial regulation."
+
+### Credit Unions
+**Why We Fit**: Small compliance teams, need automated reporting, limited budgets.
+
+**Positioning**: "Automated compliance reporting for credit unions. No consultants needed."
+
+### Fintech Startups
+**Why We Fit**: Preparing for regulatory examinations, need to prove governance, fast-moving.
+
+**Positioning**: "Scale-up compliance. Start documenting now, grow with us."
+
+## Our Competitive Advantages
+
+1. **AI-Powered**: Auto-extract requirements from regulations, not manual input
+2. **Real-Time**: Continuous monitoring vs. quarterly reports
+3. **Financial Services Focus**: Pre-built for banking regulations, not generic
+4. **Speed**: Generate reports in hours, not weeks
+5. **Cost**: Free vs. $500K+ consulting engagements
 
 ## Current Status
 
