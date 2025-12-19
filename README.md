@@ -2,6 +2,8 @@
 
 > AI Governance & Reporting Suite
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![GitHub stars](https://img.shields.io/github/stars/yksanjo/complianceiq?style=social)](https://github.com/yksanjo/complianceiq/stargazers) [![GitHub forks](https://img.shields.io/github/forks/yksanjo/complianceiq.svg)](https://github.com/yksanjo/complianceiq/network/members) [![GitHub issues](https://img.shields.io/github/issues/yksanjo/complianceiq.svg)](https://github.com/yksanjo/complianceiq/issues) [![Last commit](https://img.shields.io/github/last-commit/yksanjo/complianceiq.svg)](https://github.com/yksanjo/complianceiq/commits/main)
+
 ## What This Is
 
 ComplianceIQ is an open-source platform that helps organizations document and report on their AI governance. It generates compliance reports, maintains audit trails, and creates board-ready documentation - basically, it helps you prove to regulators and executives that your AI systems are well-governed.
